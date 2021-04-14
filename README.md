@@ -1,4 +1,5 @@
 # Work-Day-Scheduler
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A hourly work day (9-5) calender that changes stylistically by hour based on actual time using momentjs. 
 
